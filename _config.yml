@@ -7,13 +7,13 @@ permalink:        pretty
 
 # Setup
 title:            Rahel Zimmermann
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:          'PhD Candidate at <a href="https://www.unige.ch/droit/" target="_blank">UniGe</a>'
+description:      'I am based in Switzerland working towards my PhD under the supervision of  <a href="https://www.unige.ch/droit/index.php?cID=1029" target="_blank">Prof. Mbengue</a>. I also work at as a Legal Counsel Environmental Management Consultancy'
 url: https://rahelzimmermann.github.io/rahelzimmermann.github.io/
-baseurl:
+baseurl: /
 
-#author:
-#  name:           'Rahel Zimmermann'
+author:
+name:           'Rahel Zimmermann'
 #  url:            https://rahelzimmermann.github.io
 
 paginate:         5
@@ -22,7 +22,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/rahelzimmermann
   
 plugins:
   - jekyll-paginate
