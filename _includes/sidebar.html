@@ -2,7 +2,7 @@
   <div class="container sidebar-sticky">	  
     <div class="sidebar-about">
 	    <h1>
-        <a href="{{ site.baseurl }}">
+        <a href="{{ site.url }}">
           {{ site.title }}
         </a>
       </h1>
@@ -30,7 +30,8 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">Download CV</a>
+      <!--<a class="sidebar-nav-item" href="{{ site.github.repo }}">Download CV</a> -->
+	  <a class="sidebar-nav-item" href="{{site.url}}/public/cv/cv_rah_zimmermann.pdf">Download CV</a>
 	  
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
