@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Rahel Zimmermann
 tagline:          'PhD Candidate at <a href="https://www.unige.ch/droit/" target="_blank">UniGe</a>'
-description:      'I am based in Switzerland working towards my PhD under the supervision of  <a href="https://www.unige.ch/droit/index.php?cID=1029" target="_blank">Prof. Mbengue</a>. I also work at as a Legal Counsel Environmental Management Consultancy'
+description:      'I am based in Switzerland working towards my PhD under the supervision of  <a href="https://www.unige.ch/droit/index.php?cID=1029" target="_blank">Prof. Mbengue</a>. I also work as a Legal Counsel in an Environmental Management Consultancy'
 url: https://rahelzimmermann.github.io/rahelzimmermann.github.io/
 baseurl: /
 
@@ -22,7 +22,8 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/rahelzimmermann
+  repo:           https://github.com/rahelzimmermann/rahelzimmermann.github.io/blob/master/cv_rah_zimmermann.pdf
+  
   
 plugins:
   - jekyll-paginate

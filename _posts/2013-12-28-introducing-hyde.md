@@ -1,37 +1,15 @@
 ---
 layout: post
-title: Introducing Hyde
+title: About
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Hi and a warm welcome to my personal website. 
 
-### Built on Poole
+I am a young researcher and doctoral student at the University of Geneva (with the [Department of Public International Law and International Organization](https://www.unige.ch/droit/index.php?cID=1569)), where I am currently writing my doctoral thesis in international environmental law under the supervision of [Prof. Makane Moïse Mbengue](https://www.unige.ch/droit/index.php?cID=1569). 
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+I discovered my passion for international environmental law in my master’s studies at the University in Lucerne, where I took my first course on this subject with [Prof. Thilo Marauhn](https://www.unige.ch/droit/index.php?cID=1569). He was also the supervisor of my master thesis "The WHO as actor in international environmental law? - An analysis by example of the international waste law", in which I analysed the interplay between environmental and health aspects in environmental issues such as waste and examined what potential the WHO has as an actor in international environmental law. In October 2021, my first article, which is based on the outcomes of my master thesis, was published in the [Review of Euorpean, Comparative and International Environmental Law (RECIEL)](https://onlinelibrary.wiley.com/doi/full/10.1111/reel.12415). It advocates an advancement of the "One Health" approach.
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+My current research focuses on the report of the UN Secretary-General "[Gaps in international environmental law and environment related instruments: towards a global pact for the environment](https://wedocs.unep.org/handle/20.500.11822/27070)" and on different approaches to make international environmental law more effective. It is my firm conviction that profound changes are needed in international environmental law and environmental governance to preserve our earth for future generations. 
 
-### Hyde features
+Alongside my doctorate, I work as a jurist in the legal department of an environmental management consultancy. Dance, music and being outside in nature give me balance in life.
 
-In addition to the features of Poole, Hyde adds the following:
-
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
-
-### Browser support
-
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!

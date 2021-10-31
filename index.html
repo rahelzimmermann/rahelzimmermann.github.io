@@ -3,21 +3,25 @@ layout: default
 title: Home
 ---
 
+<img src="{{ site.baseurl }}public/profile_pic.jpg" style="width: 15vw; min-width: 130px;" alt="hi" class="inline"/>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
+    <!--<h1 class="post-title"> -->
+     <!--  <a href="{{ post.url }}"> 
         {{ post.title }}
       </a>
     </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+	<span class="post-date">{{ post.date | date_to_string }}</span>
+    -->
 
     {{ post.content }}
   </div>
   {% endfor %}
 </div>
+
+<!--
 
 <div class="pagination">
   {% if paginator.next_page %}
@@ -35,3 +39,4 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+-->

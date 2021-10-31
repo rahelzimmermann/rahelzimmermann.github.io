@@ -256,10 +256,11 @@ tbody tr:nth-child(odd) th {
  * Custom type
  *
  * Extend paragraphs with `.lead` for larger introductory text.
+ * Change description
  */
 
 .lead {
-  font-size: 1.0rem;
+  font-size: 0.90rem;
   font-weight: 300;
 }
 
