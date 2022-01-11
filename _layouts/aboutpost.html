@@ -2,17 +2,19 @@
 layout: default
 ---
 
-<div class="post">
+<div class="aboutpost">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
 </div>
 
+
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
-	{% if post.path contains 'indivudual-posts' %}
+	{% if post.path contains 'rahels-posts' %}
+	
       <li>
         <h3>
           <a href="{{ post.url }}">
