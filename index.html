@@ -17,8 +17,12 @@ title: About
     </h1>
 	<span class="post-date">{{ post.date | date_to_string }}</span>
     -->
+	<!--<li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>-->
 
-    {{ post.content }}
+   {{ post.content }}
   </div>
   {% endif %}
   {% endfor %}
